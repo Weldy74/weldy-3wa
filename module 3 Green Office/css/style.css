@@ -1,0 +1,75 @@
+body {
+background-image:url(../img/fond.png);
+max-width: 800px;
+margin: 0 auto;
+
+}
+header { 
+     height: 200px;
+}
+nav { 
+    font-size:1.3em;
+    background-color:#B8CB21;
+    height:200px;
+    text-align:center;
+    padding-top:70px;
+}
+nav a {
+    margin-left:30px;
+    padding-right:50px;
+    float:right;
+    color:black;
+    font-weight:bold;
+}
+nav, h2 {
+    font-family: 'Oswald', sans-serif;
+    
+}
+main {
+    background-color:white;
+    padding-bottom:40px;
+    padding-top:20px;
+}
+h2 {
+       font-family: "Oswald", sans-serif;
+	color: #B8CB21;
+	text-transform: uppercase;
+	font-weight: normal;
+	
+    }
+img {
+    float:left;
+    width: 30%;
+    margin-right:10px;
+}
+  div { 
+     float:right;
+      border:1px solid #B8CB21 ;
+      background-color:#B8CB21 ;
+      margin-right:20px;
+     padding-top:5px;
+     padding-right:10px;
+     padding-left:10px;
+     padding-bottom:5px;
+}
+
+div a { 
+    color:white;
+    text-decoration:none; 
+
+      
+      
+  }
+ #licence {
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+
+#licence img {
+    width: 50px;
+}
+    
+
+
+
