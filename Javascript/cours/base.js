@@ -196,4 +196,11 @@ for(let i = 0; i < choix.length; i++) {
     // max = choix[i];
     
 }
+// click dynamique : 
+
+// element.addEventListener('mousemove', faireqqchose);
+
+
+
+// element.addEventListener('mousemove', faireqqchose);
 
