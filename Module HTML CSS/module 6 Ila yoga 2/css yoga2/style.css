@@ -1,0 +1,174 @@
+* { 
+    box-sizing:border-box;
+}
+    
+body { 
+    font-size:1em;
+    margin: 0 auto;
+}
+
+header {
+    background-image: url(../img/fond_yoga2.jpg);
+    background-size: cover;
+    text-align:center;
+}
+
+nav {
+    font-size:1.5em;
+    font-family:"Kaushan Script";
+    padding:50px;
+    background-color: rgba(209, 181, 225, 0.2);
+   
+}
+nav a {
+    
+    padding:50px;
+    text-decoration:none;
+    color:#FFFDFF;
+    display:inline-block;
+    
+}
+
+.fa {
+ display:block;
+}
+p {
+    font-family:"Playfair Display";
+}
+header p {
+    color:#FEF7FF;
+    background-color: rgba(214, 185, 229, 0.3);
+    padding:10px;
+    
+}
+header h1 { 
+    font-size:2em;
+    font-family:"Kaushan Script";
+    color:#FFFDFF;
+    margin-top:80px;
+    padding-bottom:300px;
+}
+
+caption { 
+     font-size:2em;
+     font-family:"Kaushan Script";
+      text-align:center;
+      padding-bottom:20px;
+}
+table {
+    width:90%;
+    border:1px solid #CBCBCB ;
+    border-collapse: collapse;
+    text-align:center;
+    margin-left:100px;
+}
+
+td {
+    border:1px solid #CBCBCB ;
+    padding:10px;
+    font-family:"Playfair Display";
+    
+}
+
+th {
+    padding:20px;
+    background-color:#C4A9DE;
+    color:#FFFDF7;
+    font-size:1.6em;
+    text-align:left;
+    font-family:"Kaushan Script";
+}
+.date { text-align:left;
+width:40%;
+}
+.heure { 
+    width:20%;
+}
+.reservation a {
+    width:40%;
+    color:#C4A9DE;
+    text-decoration:none;
+}
+.couleur1 {
+    background-color:#FAFAFA;
+}
+.couleur2 {
+    background-color:#F2F2F2;
+}
+.tableau1 {
+    margin-bottom:25px;
+}
+
+.section2 h1 { 
+   font-size:1.6em;
+     font-family:"Playfair Display";
+      text-align:center;
+      padding-bottom:20px;
+}
+
+fieldset {
+    margin:30px;
+}
+legend {
+    font-size:1.6em;
+    color:#2D4756;
+}
+.section2 p {
+    padding-left:30%;
+}
+.select {
+    width:100%;
+    margin-left:-40%;
+
+}
+.prénom {
+   margin-right:20px;
+}
+.nom{
+  margin-right:20px; 
+}
+.mail {
+   
+}
+.detendre {
+    margin-right:20px; 
+}
+.medecin {
+    margin-right:20px; 
+}
+.oui {
+     margin-right:20px; 
+}
+.radio {
+    margin-left:20%;
+}
+bottom a {
+    
+    margin-left:50%;
+    background-color:#8A62C2;
+    color:#FCFCFF;
+    font-family:"Playfair Display";
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+    text-decoration:none;
+
+}
+footer {
+    margin-top:5%;
+    background-color:#8A62C2;
+    
+}
+ #licence {
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+
+#licence img {
+    width: 50px;
+}
+
+
+

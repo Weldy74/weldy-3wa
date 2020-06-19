@@ -1,0 +1,155 @@
+body { 
+    
+    box-sizing:border-box;
+    font-size:1em;
+    margin: 0 auto;
+     
+}
+header {
+    background-image: url(../img/fond_yoga.jpg);
+    background-size: cover;
+    width:1600px;
+    text-align:center;
+}
+
+nav {
+    font-size:1.5em;
+    font-family:"Kaushan Script";
+    padding:50px;
+    background-color: rgba(209, 181, 225, 0.2);
+   
+}
+nav a {
+    
+    padding:50px;
+    text-decoration:none;
+    color:#FFFDFF;
+    display:inline-block;
+    
+}
+
+.fa {
+ display:block;
+}
+p {
+    font-family:"Playfair Display";
+}
+header p {
+    color:#FEF7FF;
+    background-color: rgba(214, 185, 229, 0.3);
+    padding:10px;
+    
+}
+header h1 { 
+    font-size:2em;
+    font-family:"Kaushan Script";
+    color:#FFFDFF;
+    margin-top:80px;
+    padding-bottom:300px;
+    
+}
+.section1 {
+    height:600px;
+    width:1600px;
+    text-align:left;
+    background-color:#FFFFFF;
+    clear:both;
+}
+.yoga1 {
+    height:50%;
+   
+    
+}
+.yoga1 img {
+    float:left;
+    margin-left:-100px;
+    padding-right:10px;
+}
+
+h2 { 
+    color:#3b4b58;
+text-align:center;
+
+}
+.section1 p {
+    color:#646d76;
+    
+}
+hr {
+    color:#646d76;
+    width:1500px;
+}
+.yoga2 {
+    height:50%;
+    margin-top:50px;
+    
+}
+.yoga2 img {
+    float:right;
+    padding-left:10px;
+    margin-top:-20px;
+}
+.section2 {
+    background-image:url(../img/background_section.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+     height:600px;
+    width:1600px;
+}
+.section2 h3 {
+    text-align:center;
+    color:#FCF9FF;
+    
+}
+
+.section2 p {
+    text-align:center;
+    color:#FCF9FF;
+}
+.cours {
+    width:20%;
+    display:inline-block;
+    padding-left:100px;
+    padding-right:100px;
+}
+
+.professeurs {
+    width:20%;
+    display:inline-block;
+    padding-left:100px;
+    padding-right:100px;
+}
+
+.tarifs {
+    width:20%;
+    display:inline-block;
+    padding-left:100px;
+    padding-right:100px;
+}
+
+.section3 iframe {
+    width:1600px;
+}
+footer {
+    width:1600px;
+    background-image:url(../img/background_section.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ #licence {
+    display: block;
+    text-align: center;
+    padding: 25px;
+}
+
+#licence img {
+    width: 50px;
+}
+
+
+
+    
+
+    
+    
+    
