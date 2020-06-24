@@ -135,7 +135,7 @@ let randomNumber = Math.random(); // nombre compris entre 0 et 0.9999999999...
 // Math.floor(Math.random()); === 0
 
 Math.floor(10.9); // 10;
-
+// ramene au nombre entier
 
 Math.pow(7, 3); // === 7 ** 3
 
